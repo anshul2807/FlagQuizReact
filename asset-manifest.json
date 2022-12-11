@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlagQuizReact/static/css/main.26c8b6d5.css",
+    "main.js": "/FlagQuizReact/static/js/main.ceaefc8b.js",
+    "index.html": "/FlagQuizReact/index.html",
+    "main.26c8b6d5.css.map": "/FlagQuizReact/static/css/main.26c8b6d5.css.map",
+    "main.ceaefc8b.js.map": "/FlagQuizReact/static/js/main.ceaefc8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c8b6d5.css",
+    "static/js/main.ceaefc8b.js"
+  ]
+}
